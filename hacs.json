@@ -1,0 +1,7 @@
+{
+  "name": "Reverse Cover",
+  "content_in_root": false,
+  "domains": ["reverse_cover"],
+  "homeassistant": "2023.9.0",
+  "render_readme": true
+}

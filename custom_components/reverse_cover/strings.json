@@ -1,0 +1,14 @@
+{
+  "title": "Reverse Cover",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Select cover",
+        "description": "Choose a cover to reverse.",
+        "data": {
+          "entity_id": "Cover"
+        }
+      }
+    }
+  }
+}
